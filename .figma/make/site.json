@@ -1,0 +1,10 @@
+{
+  "description": "Monitor and predict hardware performance with a sleek, dark-themed dashboard designed for users seeking efficient system health insights and alerts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
